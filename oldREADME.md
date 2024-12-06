@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center"> 
 	<a href="https://JayantGoel001.github.io/">KYORE</a> - v2.0
 	<p align="center">
